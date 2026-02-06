@@ -91,3 +91,9 @@ header:
 </div>
 <a href="/teaching/toolkit/ProximalMapping" style="text-decoration:underline; color:green;" target="_blank"><strong> الگوریتم‌های پروگسیمال </strong></a>
 
+<!--13-->
+<div class="english-text">
+<strong>Proximal Algorithm</strong>
+</div>
+<a href="/teaching/toolkit/ProximalMapping" style="text-decoration:underline; color:green;" target="_blank"><strong>   تست الگوریتم‌های پروگسیمال </strong></a>
+
