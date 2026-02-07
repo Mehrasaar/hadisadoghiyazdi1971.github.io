@@ -99,7 +99,7 @@ header:
 
 <!--14-->
 <div class="english-text">
-<strong>Entropy</strong>
+<strong>Entropy and Complexity</strong>
 </div>
-<a href="/teaching/toolkit/Entropy" style="text-decoration:underline; color:green;" target="_blank"><strong> انتروپی چیست</strong></a>
+<a href="/teaching/toolkit/Entropy" style="text-decoration:underline; color:green;" target="_blank"><strong> انتروپی و پیچیدگی چیست</strong></a>
 

@@ -2,7 +2,7 @@
 layout: persian  # یا single با کلاس rtl-layout
 classes: wide rtl-layout
 dir: rtl
-title: "انتروپی چیست"
+title: "انتروپی و پیچیدگی چیست"
 permalink: /teaching/toolkit/Entropy/
 author_profile: false
 sidebar:
@@ -14,9 +14,9 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-# Entropy
+# Entropy and Complexity
 
-# آنتروپی
+# آنتروپی و پیچیدگی
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="/assets/Toolkitimages/Entropy/Entopy1.jpg" alt="Entropy_1" style="width: 50%; height: 50%; object-fit: contain;">
