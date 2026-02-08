@@ -3,7 +3,7 @@ layout: persian  # یا single با کلاس rtl-layout
 classes: wide rtl-layout
 dir: rtl
 title: "Cross-Entropy"
-permalink: /teaching/studenteffort/toolkit/CrossEntropy/
+permalink: /teaching/toolkit/CrossEntropy/
 author_profile: false
 sidebar:
   nav: "toolkit"
