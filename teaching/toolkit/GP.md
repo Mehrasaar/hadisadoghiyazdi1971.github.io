@@ -92,9 +92,23 @@ $$
 p(w|y,X) \propto p(y|X,w)*p(w)
 $$
 
-همانطور که از توزیع پیشین می‌دانیم $w \sim \mathcal{N}(0, \Sigma_p)$، بنابراین $p(w|y,X) \propto \exp\left( -\frac{1}{2} w^\top \Sigma_p^{-1} w \right) $
+همانطور که از توزیع پیشین می‌دانیم 
+$$
+w \sim \mathcal{N}(0, \Sigma_p)
+$$
+، بنابراین 
+$$
+p(w|y,X) \propto \exp\left( -\frac{1}{2} w^\top \Sigma_p^{-1} w \right) 
+$$
 
-و همچنین داریم $y = x^\top w + \epsilon$. بنابراین وقتی $X,w$ را می‌دانیم، $y$ مانند $ \epsilon $ رفتار می‌کند که با توجه به $x^\top w$ تغییر می‌کند. این یعنی $y \sim \mathcal{N}(X^\top w, \sigma^2)$ بنابراین، $p(y|X,w) \propto \exp\left( -\frac{1}{2\sigma^2_n} (y - X^\top w)^\top (y - X^\top w) \right)$
+و همچنین داریم $y = x^\top w + \epsilon$. بنابراین وقتی $X,w$ را می‌دانیم، $y$ مانند $ \epsilon $ رفتار می‌کند که با توجه به $x^\top w$ تغییر می‌کند. این یعنی 
+$$
+y \sim \mathcal{N}(X^\top w, \sigma^2)
+$$
+بنابراین، 
+$$ 
+p(y|X,w) \propto \exp\left( -\frac{1}{2\sigma^2_n} (y - X^\top w)^\top (y - X^\top w) \right)
+$$
 
 بنابراین:
 
