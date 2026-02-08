@@ -109,3 +109,8 @@ header:
 </div>
 <a href="/teaching/toolkit/CrossEntropy" style="text-decoration:underline; color:green;" target="_blank"><strong> انتروپی متقاطع چیست</strong></a>
 
+<!--16-->
+<div class="english-text">
+<strong>Bayes Estimator- Square Loss</strong>
+</div>
+<a href="/teaching/toolkit/BayesianEstimator" style="text-decoration:underline; color:green;" target="_blank"><strong> تخمین گر بیز- تابع ضرر مربعات</strong></a>

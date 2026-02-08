@@ -4,7 +4,7 @@ classes: wide rtl-layout
 dir: rtl
 title: "Cross-Entropy"
 permalink: /teaching/toolkit/CrossEntropy/
-author_profile: false
+author_profile: true
 sidebar:
   nav: "toolkit"
 header:
