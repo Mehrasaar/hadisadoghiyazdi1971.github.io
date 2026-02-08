@@ -114,3 +114,10 @@ header:
 <strong>Bayes Estimator- Square Loss</strong>
 </div>
 <a href="/teaching/toolkit/BayesianEstimator" style="text-decoration:underline; color:green;" target="_blank"><strong> تخمین گر بیز- تابع ضرر مربعات</strong></a>
+
+
+<!--17-->
+<div class="english-text">
+<strong>Gaussian Processes</strong>
+</div>
+<a href="/teaching/toolkit/GP" style="text-decoration:underline; color:green;" target="_blank"><strong> فرآیندهای گوسی</strong></a>
