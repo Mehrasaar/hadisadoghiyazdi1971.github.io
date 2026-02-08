@@ -216,7 +216,6 @@ $$
 گرادیان  $( \nabla_w f(w))$   به صورت زیر است:
 
 $$
-
 \nabla_w f(w) = \frac{\partial}{\partial w} \left( \frac{1}{\sigma^2_n} y^\top w^\top X - \frac{1}{2\sigma^2_n} w^\top X^\top X w - \frac{1}{2} w^\top \Sigma_p^{-1} w \right)
 $$
 
@@ -244,7 +243,7 @@ $$
 
 $$
 
-abla_w f(w) = \frac{1}{\sigma^2_n} X^\top y - \frac{1}{\sigma^2_n} X^\top X w - \Sigma_p^{-1} w
+\nabla_w f(w) = \frac{1}{\sigma^2_n} X^\top y - \frac{1}{\sigma^2_n} X^\top X w - \Sigma_p^{-1} w
 $$
 
 قرار دادن گرادیان برابر صفر برای یافتن نقطه بحرانی $ ( \bar{w}) $:
@@ -265,7 +264,7 @@ $$
 
 $$
 
-abla_w^2 f(w) = \frac{\partial}{\partial w} \left( -\frac{1}{\sigma^2_n} X^\top X w - \Sigma_p^{-1} w \right)
+\nabla_w^2 f(w) = \frac{\partial}{\partial w} \left( -\frac{1}{\sigma^2_n} X^\top X w - \Sigma_p^{-1} w \right)
 $$
 
 بنابراین:
