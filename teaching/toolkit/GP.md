@@ -102,7 +102,7 @@ w \sim \mathcal{N}(0, \Sigma_p)
 $$
 ، بنابراین 
 $$
-p(w|y,X) \propto \exp\left( -\frac{1}{2} w^\top \Sigma_p^{-1} w \right) 
+p(w|y,X) \propto \exp\left( -\frac{1}{2} w^\top \Sigma_p^{-1} w \right)*... 
 $$
 
 و همچنین داریم $y = x^\top w + \epsilon$. بنابراین وقتی $X,w$ را می‌دانیم، $y$ مانند $ \epsilon $ رفتار می‌کند که با توجه به $x^\top w$ تغییر می‌کند. این یعنی 
