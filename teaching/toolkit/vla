@@ -1,1 +1,26 @@
+---
+layout: persian  # یا single با کلاس rtl-layout
+classes: wide rtl-layout
+dir: rtl
+title: "بینایی–زبان–کنش"
+permalink: /teaching/toolkit/vla/
+author_profile: false
+sidebar:
+  nav: "toolkit"
+header:
+  overlay_image: "/assets/images/background.jpg"
+  overlay_filter: 0.3
+  overlay_color: "#5e616c"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+---
 
+# Vision–Language–Action (VLA)
+
+# بینایی–زبان–کنش
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy1.jpg" alt="Entropy_1" style="width: 50%; height: 50%; object-fit: contain;">
+</div>
+<div class="caption" style="text-align: center; margin-top: 8px;">
+افزایش بی‌نظمی در جهان – نمایش مفهومی قانون دوم ترمودینامیک
+</div>
