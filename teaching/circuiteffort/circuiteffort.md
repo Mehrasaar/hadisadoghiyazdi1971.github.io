@@ -128,3 +128,10 @@ header:
 <a href="/teaching/circuiteffort/Analysis_and_reduction_of_electromagnetic_interference_in_buck_converters" style="text-decoration:underline; color:green;" target="_blank"><strong> تحلیل و کاهش تداخل الکترومغناطیسی در مبدل‌های سوئیچینگ</strong></a>
 
 
+<!--16-->
+<div class="english-text">
+<strong>مولتی متر (نحوه عملکرد و کاربرد ها)</strong>
+</div>
+<a href="/teaching/circuiteffort/multimeter-operating-principle-and-uses" style="text-decoration:underline; color:green;" target="_blank"><strong> مولتی متر (نحوه عملکرد و کاربرد ها)</strong></a>
+
+
