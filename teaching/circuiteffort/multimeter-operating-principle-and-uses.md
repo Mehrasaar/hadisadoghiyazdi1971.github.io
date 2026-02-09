@@ -24,45 +24,6 @@ header:
 
 ---
 
-## فهرست مطالب
-
-<ul style="text-align: right; list-style-position: inside;">
-  <li><a href="#اطلاعات-نویسنده">اطلاعات نویسنده</a></li>
-  <li><a href="#مقدمه">مقدمه</a></li>
-  <li>
-    <a href="#تاریخچه-و-تکامل-مولتی-متر-ها">تاریخچه و تکامل مولتی‌ متر ها</a>
-    <ul style="text-align: right; list-style-position: inside;">
-      <li><a href="#دوران-اولیه--گالوانومتر-و-آمپرمتر-های-مکانیکی-اواخر-قرن-۱۹">دوران اولیه – گالوانومتر و آمپرمتر های مکانیکی (اواخر قرن ۱۹)</a></li>
-      <li><a href="#تولد-مولتی-متر--دهه-۱۹۲۰">تولد مولتی‌ متر – دهه ۱۹۲۰</a></li>
-      <li><a href="#پیشرفت-های-قرن-بیستم--مولتی-متر-های-آنالوگ">پیشرفت‌ های قرن بیستم – مولتی‌ متر های آنالوگ</a></li>
-      <li><a href="#انقلاب-دیجیتال--دهه-۱۹۷۰-تا-امروز">انقلاب دیجیتال – دهه ۱۹۷۰ تا امروز</a></li>
-    </ul>
-  </li>
-  <li><a href="#مقایسهی-مولتی-متر-های-آنالوگ-و-دیجیتال">مقایسه‌ی مولتی متر های آنالوگ و دیجیتال</a></li>
-  <li>
-    <a href="#انواع-مولتی-متر-های-پیشرفته">انواع مولتی متر های پیشرفته</a>
-    <ul style="text-align: right; list-style-position: inside;">
-      <li><a href="#۱-مولتی-متر-های-true-rms">۱. مولتی متر های True RMS</a></li>
-      <li><a href="#۲-مولتی-متر-های-auto-ranging">۲. مولتی متر های Auto-ranging</a></li>
-      <li><a href="#۳-مولتی-متر-های-clamp-گیره-ای">۳. مولتی متر های Clamp (گیره‌ ای)</a></li>
-      <li><a href="#۴-مولتیمتر-رومیزی-benchtop-multimeter">۴. مولتی‌متر رومیزی (Benchtop Multimeter)</a></li>
-      <li><a href="#۵-مولتیمتر-هوشمند-smart-multimeter">۵. مولتی‌متر هوشمند (Smart Multimeter)</a></li>
-    </ul>
-</li>
-  <li>
-    <a href="#بلوک-های-سازنده-مولتی-متر-های-دیجیتال-dmm">بلوک‌ های سازنده مولتی‌ متر های دیجیتال (DMM)</a>
-    <ul style="text-align: right; list-style-position: inside;">
-      <li><a href="#۱-بخش-ورودی-و-محافظت-input--protection-stage-input">۱. بخش ورودی و محافظت (Input & Protection Stage)</a></li>
-      <li><a href="#۲-مدار-تقسیم-کننده-و-تقویت-کننده-attenuator--amplifier-stage">۲. مدار تقسیم‌ کننده و تقویت‌ کننده (Attenuator & Amplifier Stage)</a></li>
-      <li><a href="#۳-مبدل-آنالوگ-به-دیجیتال-adc--analog-to-digital-converter">۳. مبدل آنالوگ به دیجیتال (ADC – Analog to Digital Converter)</a></li>
-      <li><a href="#۴-واحد-پردازش-و-نمایش-processing--display-unit">۴. واحد پردازش و نمایش (Processing & Display Unit)</a></li>
-      <li><a href="#۵-منبع-تغذیه-power-supply-unit">۵. منبع تغذیه (Power Supply Unit)</a></li>
-    </ul>
-  </li>
-  <li><a href="#نتیجهگیری">نتیجه گیری</a></li>
-  <li><a href="#منابع">منابع</a></li>
-</ul>
-
 ---
 
 ## مقدمه
@@ -412,8 +373,6 @@ $$
 ---
 
 ### منابع
-
-</div>
 
 - Horowitz & Hill, _The Art of Electronics_
 - Paul Scherz & Simon Monk, _Practical Electronics for Inventors_
