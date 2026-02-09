@@ -1,0 +1,26 @@
+
+layout: persian  # یا single با کلاس rtl-layout
+classes: wide rtl-layout
+dir: rtl
+title: "مدل‌های چندوجهی بزرگ"
+permalink: /teaching/toolkit/vla/
+author_profile: false
+sidebar:
+  nav: "toolkit"
+header:
+  overlay_image: "/assets/images/background.jpg"
+  overlay_filter: 0.3
+  overlay_color: "#5e616c"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+---
+
+# Large Multimodal Models (LMM)
+ مدل‌های چندوجهی بزرگ
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="/assets/Toolkitimages/vla/image_1770648721570.jpg" alt="vla_1" style="width: 50%; height: 50%; object-fit: contain;">
+</div>
+<div class="caption" style="text-align: center; margin-top: 8px;">
+جهان  به‌سمت راحتی و هوشمندی حرکت می‌کند  
+</div>
