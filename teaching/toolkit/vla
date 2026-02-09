@@ -19,8 +19,57 @@ header:
 # بینایی–زبان–کنش
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/image_1770648721570.jpg" alt="Entropy_1" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/image_1770648721570.jpg" alt="vla_1" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 جهان  به‌سمت راحتی و هوشمندی حرکت می‌کند  
 </div>
+
+زندگی ما انسان‌ها همیشه به سمت ساده‌تر شدن پیش می‌رود.  
+هر نسل، بخشی از کارهای سخت را به ابزارها سپرده است:  
+از چرخ و آسیاب گرفته تا ماشین لباسشویی و جاروبرقی.
+
+اما حالا وارد مرحله ی جدیدی شده‌ایم:  
+مرحله‌ای که در آن ابزارها فقط کار نمی‌کنند؛ بلکه می‌فهمند چه باید بکنند.
+---
+تصور کنید چند سال آینده، سن‌تان بالا رفته و دیگر نمی‌خواهید برای هر کاری از جا بلند شوید.  
+فقط می‌گویید:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="/assets/Toolkitimages/Entropy/image_1770643337038.jpg" alt="vla_2" style="width: 50%; height: 50%; object-fit: contain;">
+</div>
+<div class="caption" style="text-align: center; margin-top: 8px;">
+«شام برام قورمه‌سبزی درست کن.»
+</div>
+
+و چند ساعت بعد، بدون هیچ زحمتی، غذای گرم جلوی شماست.  
+ربات محیط را دیده، حرف شما را فهمیده و عمل مناسب را انتخاب کرده است.
+
+این همان جایی است که VLA وارد صحنه می‌شود.
+
+---
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="/assets/Toolkitimages/Entropy/image_1770000721570.jpg" alt="vla_3" style="width: 50%; height: 50%; object-fit: contain;">
+</div>
+<div class="caption" style="text-align: center; margin-top: 8px;">
+سه ستون اصلی هوشمندی
+</div>
+
+هر موجود هوشمند – از انسان گرفته تا یک ربات پیشرفته – برای انجام یک کار ساده، سه مرحله را طی می‌کند:
+
+- می‌بیند  
+- می‌فهمد  
+- عمل می‌کند
+
+در مدل‌های VLA، این سه مرحله در یک چرخه ی واحد به هم متصل می‌شوند.  
+این یعنی ربات فقط یک دوربین نیست، فقط یک پردازشگر زبان نیست، و فقط یک بازوی مکانیکی نیست.  
+او یک «عامل» است که:
+
+- از دیدن، معنا استخراج می‌کند  
+- از زبان، هدف استخراج می‌کند  
+- و از کنش، تغییر ایجاد می‌کند  
+
+چرخه‌ای که در آن «تصویر»، «زبان» و «کنش» نه جدا از هم، بلکه به صورت واحد عمل می‌کنند
+---
+
+
