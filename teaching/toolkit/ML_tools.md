@@ -121,3 +121,26 @@ header:
 <strong>Gaussian Processes</strong>
 </div>
 <a href="/teaching/toolkit/GP" style="text-decoration:underline; color:green;" target="_blank"><strong> فرآیندهای گوسی</strong></a>
+
+
+
+
+<!--18-->
+<div class="english-text">
+<strong> visio  language model </strong>
+</div>
+<a href="/teaching/toolkit/vla" style="text-decoration:underline; color:green;" target="_blank"><strong> 
+  بینایی-زبان-کنش
+</strong></a>
+
+
+<!-19-->
+<div class="english-text">
+<strong> Large Multimodal Models</strong>
+</div>
+<a href="/teaching/toolkit/lmm" style="text-decoration:underline; color:green;" target="_blank"><strong> 
+  مدل های چندوجهی بزرگ
+</strong></a>
+
+
+
