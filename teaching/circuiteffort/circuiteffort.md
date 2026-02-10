@@ -141,3 +141,9 @@ header:
 </div>
 <a href="/teaching/circuiteffort/ACTODCFARSI" style="text-decoration:underline; color:green;" target="_blank"><strong>مبدل AC  به  DC</strong></a>
 
+<!--17-->
+<div class="english-text">
+<strong>سنسورها</strong>
+</div>
+<a href="/teaching/circuiteffort/sensors" style="text-decoration:underline; color:green;" target="_blank"><strong>سنسورها</strong></a>
+
