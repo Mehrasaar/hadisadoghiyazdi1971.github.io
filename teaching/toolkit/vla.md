@@ -3,7 +3,7 @@ layout: persian  # یا single با کلاس rtl-layout
 classes: wide rtl-layout
 dir: rtl
 title: "بینایی–زبان–کنش"
-permalink: /teaching/toolkit/vla1/
+permalink: /teaching/toolkit/vla/
 author_profile: false
 sidebar:
   nav: "toolkit"
