@@ -112,3 +112,26 @@ header:
 <strong>زمین کردن </strong>
 </div>
 <a href="/teaching/circuiteffort/earthing" style="text-decoration:underline; color:green;" target="_blank"><strong> زمین کردن</strong></a>
+
+
+<!--15-->
+<div class="english-text">
+<strong>رسم شماتیک مدار الکتریکی</strong>
+</div>
+<a href="/teaching/circuiteffort/Circuit_Schematic_Drawing_Project" style="text-decoration:underline; color:green;" target="_blank"><strong> رسم شماتیک مدار</strong></a>
+
+
+<!--15-->
+<div class="english-text">
+<strong>تحلیل و کاهش تداخل الکترومغناطیسی در مبدل‌های سوئیچینگ</strong>
+</div>
+<a href="/teaching/circuiteffort/Analysis_and_reduction_of_electromagnetic_interference_in_buck_converters" style="text-decoration:underline; color:green;" target="_blank"><strong> تحلیل و کاهش تداخل الکترومغناطیسی در مبدل‌های سوئیچینگ</strong></a>
+
+
+<!--16-->
+<div class="english-text">
+<strong>مولتی متر (نحوه عملکرد و کاربرد ها)</strong>
+</div>
+<a href="/teaching/circuiteffort/multimeter-operating-principle-and-uses" style="text-decoration:underline; color:green;" target="_blank"><strong> مولتی متر (نحوه عملکرد و کاربرد ها)</strong></a>
+
+
