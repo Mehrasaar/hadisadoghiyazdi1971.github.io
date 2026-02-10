@@ -27,8 +27,8 @@ description              : "A hub for my ideas, projects, and achievements. Expl
 url                      : "https://mehrasaar.github.io"
 github_username          : hadisadoghiyazdi1971
 
-baseurl                  : baseurl: "/hadisadoghiyazdi1971.github.io"
-repository               : repository: "mehrasaar/hadisadoghiyazdi1971.github.io"
+baseurl                  : "/hadisadoghiyazdi1971.github.io"
+repository               : "mehrasaar/hadisadoghiyazdi1971.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 logo                     : "/assets/images/logo.png"
