@@ -19,35 +19,7 @@ header:
 
 <p><strong>نام: </strong>مهدی حسینی</p> <p><strong>وابستگی:</strong> گروه مهندسی کامپیوتر، دانشگاه فردوسی مشهد</p> <p><strong>ایمیل:</strong> mahdihossaini3@gmail.com</p>
 
----
-## فهرست مطالب
 
-<ul style="text-align: right; list-style-position: inside;">
-  <li><a href="#مقدمه">1. مقدمه</a></li>
-  <li><a href="#مروری-بر-چارچوب-wiseeda">2. مروری بر چارچوب WiseEDA</a></li>
-  <li><a href="#هدف-و-دامنه-پروژه-حاضر">3. هدف و دامنه پروژه حاضر</a></li>
-  <li><a href="#شبیه-سازی-و-بهینه-سازی-حلقه-بسته">4. شبیه‌سازی و بهینه‌سازی حلقه‌بسته</a></li>
-  <li>
-    <a href="#معماری-کلی-سیستم">5. معماری کلی سیستم</a>
-    <ul style="text-align: right; list-style-position: inside;">
-      <li><a href="#رابط-کاربری-frontend">5.1 رابط کاربری (Frontend)</a></li>
-      <li><a href="#تحلیل-درخواست-کاربر">5.2 تحلیل درخواست کاربر</a></li>
-      <li><a href="#انتخاب-توپولوژی-مدار">5.3 انتخاب توپولوژی مدار</a></li>
-      <li><a href="#تولید-netlist">5.4 تولید Netlist</a></li>
-      <li><a href="#شبیه-سازی-با-ngspice">5.5 شبیه‌سازی با ngspice</a></li>
-      <li><a href="#ارزیابی-پاسخ-فرکانسی-scoring">5.6 ارزیابی پاسخ فرکانسی (Scoring)</a></li>
-      <li><a href="#بهینه-سازی-با-pso">5.7 بهینه‌سازی با PSO</a></li>
-      <li><a href="#حلقه-بهینه-سازی">5.8 حلقه بهینه‌سازی</a></li>
-      <li><a href="#نتایج-و-خروجی-ها">5.9 نتایج و خروجی‌ها</a></li>
-    </ul>
-  </li>
-  <li><a href="#تفاوت-های-کلیدی-با-wiseeda">6. تفاوت‌های کلیدی با WiseEDA</a></li>
-  <li><a href="#کارهای-آینده">7. کارهای آینده</a></li>
-  <li><a href="#نتیجه-گیری">8. نتیجه‌گیری</a></li>
-  <li><a href="#منابع">منابع</a></li>
-</ul>
-
----
 
 ## 1. مقدمه
 

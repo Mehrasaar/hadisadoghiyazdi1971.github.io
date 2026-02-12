@@ -141,3 +141,10 @@ header:
 </div>
 <a href="/teaching/circuiteffort/ACTODCFARSI" style="text-decoration:underline; color:green;" target="_blank"><strong>مبدل AC  به  DC</strong></a>
 
+<!--18-->
+<div class="english-text">
+<strong> طراحی خودکار فیلتر RC پایین‌گذر با الهام از WiseEDA</strong>
+</div>
+<a href="/teaching/circuiteffort/wiseeda-like-automated-design-of-rc-low-pass-filters" style="text-decoration:underline; color:green;" target="_blank"><strong> طراحی خودکار فیلتر RC پایین‌گذر با الهام از WiseEDA</strong></a>
+
+
