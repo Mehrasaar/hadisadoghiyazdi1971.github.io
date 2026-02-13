@@ -1,17 +1,16 @@
 ---
-layout: persian  # یا single با کلاس rtl-layout
+layout: persian
 classes: wide rtl-layout
 dir: rtl
-title: "بینایی–زبان–کنش"
-permalink: /teaching/toolkit/vla/
-author_profile: false
-sidebar:
-  nav: "toolkit"
+title: "بینایی-زبان-کنش"
+permalink: /teaching/studenteffort/patterneffort/vla
+author_profile: true
+
 header:
   overlay_image: "/assets/images/background.jpg"
   overlay_filter: 0.3
   overlay_color: "#5e616c"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [Unsplash](https://unsplash.com)"
 ---
 
 # Vision–Language–Action (VLA)
