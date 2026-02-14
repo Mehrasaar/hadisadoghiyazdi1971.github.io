@@ -2,7 +2,7 @@
 layout: persian
 classes: wide rtl-layout
 dir: rtl
-title: کتابچه المان‌های مدار برای دانش‌آموزان
+title: "کتابچه المان‌های مدار برای دانش‌آموزان"
 permalink: /teaching/circuiteffort/circuit-elements-guide/
 author_profile: true
 header:

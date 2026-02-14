@@ -167,3 +167,10 @@ header:
 <strong>PID controller</strong>
 </div>
 <a href="/teaching/circuiteffort/pid_rocket" style="text-decoration:underline; color:green;" target="_blank"><strong>PID controller</strong></a>
+
+
+<!--21-->
+<div class="english-text">
+<strong>circuit elements guide</strong>
+</div>
+<a href="/teaching/circuiteffort/circuit-elements-guide" style="text-decoration:underline; color:green;" target="_blank"><strong>کتابچه المان‌های مدار برای دانش‌آموزان</strong></a>
