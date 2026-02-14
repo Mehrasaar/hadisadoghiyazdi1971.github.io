@@ -182,3 +182,10 @@ header:
 <a href="/teaching/circuiteffort/llm_pid" style="text-decoration:underline; color:green;" target="_blank"><strong>کنترل به کمک مدل زبانی بزرگ</strong></a>
 
 
+<!--23-->
+<div class="english-text">
+<strong>تحلیل و کاهش تداخل الکترومغناطیسی در مبدل‌های سوئیچینگ</strong>
+</div>
+<a href="/teaching/circuiteffort/Analysis_and_reduction_of_electromagnetic_interference_in_buck_converters_2" style="text-decoration:underline; color:green;" target="_blank"><strong>تحلیل و کاهش تداخل الکترومغناطیسی در مبدل‌های سوئیچینگ</strong></a>
+
+
