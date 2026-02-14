@@ -3,7 +3,7 @@ layout: persian
 classes: wide rtl-layout
 dir: rtl
 title: " تحلیل و کاهش تداخل الکترومغناطیسی در مبدل‌های سوئیچینگ ادامه"
-permalink: /teaching/studenteffort/circuiteffort/Analysis_and_reduction_of_electromagnetic_interference_in_buck_converters_2/
+permalink: /teaching/circuiteffort/Analysis_and_reduction_of_electromagnetic_interference_in_buck_converters_2/
 author_profile: true
 ---
 
