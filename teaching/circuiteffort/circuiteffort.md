@@ -195,3 +195,14 @@ header:
 <a href="/teaching/circuiteffort/iot-system" style="text-decoration:underline; color:green;" target="_blank"><strong>اینترنت اشیا</strong></a>
 
 
+<!--25-->
+<div class="english-text">
+<strong>DC Motor</strong>
+</div>
+<a href="/teaching/circuiteffort/DC_Motor_fa" style="text-decoration:underline; color:green;" target="_blank"><strong>موتور DC</strong></a>
+
+<!--26-->
+<div class="english-text">
+<strong>Simulation and Circuit Analysis</strong>
+</div>
+<a href="/teaching/circuiteffort/Simulation-and-Circuit-Analysis" style="text-decoration:underline; color:green;" target="_blank"><strong>شبیه سازی و تحلیل مدار</strong></a>

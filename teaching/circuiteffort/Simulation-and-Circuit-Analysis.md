@@ -11,11 +11,14 @@ author-profile: true
 
 # نرم افزار های شبیه سازی و تحلیل مدار
 
-<div style="display: flex; justify-content: start; align-items: center; gap: 10px; ">
-    <img src="Simulation-and-Circuit-Analysis/pfp.jpeg" alt="auth1" style="width: 200px; height: 200px; object-fit: contain;">
+
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/pfp.jpeg" alt="IPS1" style="width: 20%; height: 50%; border-radius:5px; object-fit:cover; ">
 </div>
 
-
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  Niayesh Azami
+</div>
 
 ## اطلاعات نویسنده
 **نام:** نیایش اعظمی
@@ -26,29 +29,21 @@ author-profile: true
 
 
 ## فهرست مطالب
-- [نرم افزار های شبیه سازی و تحلیل مدار](#نرم-افزار-های-شبیه-سازی-و-تحلیل-مدار)
-  - [اطلاعات نویسنده](#اطلاعات-نویسنده)
-  - [فهرست مطالب](#فهرست-مطالب)
-  - [مقدمه](#مقدمه)
-  - [بخش اول – معرفی و مقایسه نرم‌افزارهای شبیه‌سازی مدار](#بخش-اول--معرفی-و-مقایسه-نرمافزارهای-شبیهسازی-مدار)
-    - [نرم افزار LTspice](#نرم-افزار-ltspice)
-    - [نرم افزار Proteus VSM](#نرم-افزار-proteus-vsm)
-    - [نرم افزار NI Multisim](#نرم-افزار-ni-multisim)
-    - [نرم افزار Cadence PSpice](#نرم-افزار-cadence-pspice)
-    - [پلتفرم MATLAB/Simulink (Simscape Electrical)](#پلتفرم-matlabsimulink-simscape-electrical)
-    - [نرم افزار KiCad](#نرم-افزار-kicad)
-    - [جدول مقایسه کلی](#جدول-مقایسه-کلی)
-  - [آموزش و تمرکز بر نرم‌افزار LTspice](#آموزش-و-تمرکز-بر-نرمافزار-ltspice)
-    - [مراحل ترسیم مدار در LTspice](#مراحل-ترسیم-مدار-در-ltspice)
-    - [انواع آنالیزهای پایه و پیشرفته:](#انواع-آنالیزهای-پایه-و-پیشرفته)
-      - [مراحل:](#مراحل)
-      - [مراحل:](#مراحل-1)
-      - [مراحل:](#مراحل-2)
-      - [مراحل:](#مراحل-3)
-  - [مثال کاربردی](#مثال-کاربردی)
-    - [مثال: شبیه‌سازی یک یکسوساز و فیلتر](#مثال-شبیهسازی-یک-یکسوساز-و-فیلتر)
-  - [نتیجه‌گیری](#نتیجهگیری)
-  - [منابع](#منابع)
+- [مقدمه](#مقدمه)
+- [بخش اول – معرفی و مقایسه نرم‌افزارهای شبیه‌سازی مدار](#بخش-اول-معرفی-و-مقایسه-نرم‌افزارهای-شبیه‌سازی-مدار)
+  - [نرم افزار LTspice](#نرم-افزار-ltspice)
+  - [نرم افزار Proteus VSM](#نرم-افزار-proteus-vsm)
+  - [نرم افزار NI Multisim](#نرم-افزار-ni-multisim)
+  - [نرم افزار Cadence PSpice](#نرم-افزار-cadence-pspice)
+  - [پلتفرم MATLAB/Simulink (Simscape Electrical)](#پلتفرم-matlabsimulink-simscape-electrical)
+  - [نرم افزار KiCad](#نرم-افزار-kicad)
+  - [جدول مقایسه کلی](#جدول-مقایسه-کلی)
+- [آموزش و تمرکز بر نرم‌افزار LTspice](#آموزش-و-تمرکز-بر-نرم-افزار-ltspice)
+  - [مراحل ترسیم مدار در LTspice](#مراحل-ترسیم-مدار-در-ltspice)
+  - [انواع آنالیزهای پایه و پیشرفته](#انواع-آنالیزهای-پایه-و-پیشرفته)
+- [مثال کاربردی](#مثال-کاربردی)
+- [نتیجه‌گیری](#نتیجه‌گیری)
+- [منابع](#منابع)
 
 
 ## مقدمه
@@ -105,14 +100,14 @@ author-profile: true
 
 ### جدول مقایسه کلی
 
-| نرم‌افزار                              | نوع لایسنس             | حوزه شبیه‌سازی               | مزایا                                                        | محدودیت‌ها                                                      | مناسب برای                              |
-| ------------------------------------- | ---------------------- | --------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------- |
-| LTspice                               | رایگان (Freeware)      | آنالوگ، مخلوط               | سریع و دقیق برای مدارهای آنالوگ، کتابخانه مدل غنی            | محدود در شبیه‌سازی دیجیتال و PCB                                | طراحی آنالوگ و پاور، تحقیق و صنعت       |
-| Proteus VSM                           | تجاری (با دمو رایگان)  | مخلوط، امبدد                | شبیه‌سازی همزمان HW/SW، مجموعه مدل‌های MCU گسترده              | هزینه لایسنس، فقط ویندوز، کمتر برای آنالوگ خالص                | طراحی سیستم‌های امبدد، آموزش MCU         |
-| NI Multisim                           | تجاری (آموزشی)         | آنالوگ، دیجیتال             | رابط کاربری تعاملی، کتابخانه بزرگ قطعات، امکانات آموزشی      | لایسنس تجاری، سنگین در مدارهای بسیار پیچیده                    | آموزش الکترونیک، طراحی برد PCB          |
-| Cadence PSpice                        | تجاری (نسخه رایگان TI) | آنالوگ، مخلوط               | دقت بالا، کتابخانه عظیم مدل، تحلیل‌های پیشرفته                | هزینه بالا، پیچیدگی کاربری، محدودیت نسخه رایگان                | طراحی حرفه‌ای مدارهای آنالوگ/مخلوط       |
-| MATLAB/Simulink (Simscape Electrical) | تجاری (کاربرد عمومی)   | چندرشته‌ای (الکتریکی، کنترل) | قدرتمند برای سیستم‌های پیچیده، ادغام با کنترل و داده‌های واقعی | هزینه بالا، کاربر نیاز به آموزش زیاد، مناسب‌تر برای مدل‌های بزرگ | تحقیق و توسعه سیستم‌های الکتریکی و کنترل |
-| KiCad                                 | رایگان، متن‌باز         | آنالوگ (از طریق ngspice)    | رایگان و متن‌باز، یکپارچه با طراحی PCB                        | کتابخانه مدل محدود، امکانات تحلیل ساده                         | آموزش و طراحی آزاد مدارهای ساده         |
+| نرم‌افزار | نوع لایسنس | حوزه شبیه‌سازی | مزایا | محدودیت‌ها | مناسب برای |
+|---------|-----------|---------------|-------|-------------|-----------|
+| LTspice | رایگان (Freeware) | آنالوگ، مخلوط | سریع و دقیق برای مدارهای آنالوگ، کتابخانه مدل غنی | محدود در شبیه‌سازی دیجیتال و PCB | طراحی آنالوگ و پاور، تحقیق و صنعت |
+| Proteus VSM | تجاری (با دمو رایگان) | مخلوط، امبدد | شبیه‌سازی همزمان HW/SW، مجموعه مدل‌های MCU گسترده | هزینه لایسنس، فقط ویندوز، کمتر برای آنالوگ خالص | طراحی سیستم‌های امبدد، آموزش MCU |
+| NI Multisim | تجاری (آموزشی) | آنالوگ، دیجیتال | رابط کاربری تعاملی، کتابخانه بزرگ قطعات، امکانات آموزشی | لایسنس تجاری، سنگین در مدارهای بسیار پیچیده | آموزش الکترونیک، طراحی برد PCB |
+| Cadence PSpice | تجاری (نسخه رایگان TI) | آنالوگ، مخلوط | دقت بالا، کتابخانه عظیم مدل، تحلیل‌های پیشرفته | هزینه بالا، پیچیدگی کاربری، محدودیت نسخه رایگان | طراحی حرفه‌ای مدارهای آنالوگ/مخلوط |
+| MATLAB/Simulink (Simscape Electrical) | تجاری (کاربرد عمومی) | چندرشته‌ای (الکتریکی، کنترل) | قدرتمند برای سیستم‌های پیچیده، ادغام با کنترل و داده‌های واقعی | هزینه بالا، کاربر نیاز به آموزش زیاد، مناسب‌تر برای مدل‌های بزرگ | تحقیق و توسعه سیستم‌های الکتریکی و کنترل |
+| KiCad | رایگان، متن‌باز | آنالوگ (از طریق ngspice) | رایگان و متن‌باز، یکپارچه با طراحی PCB | کتابخانه مدل محدود، امکانات تحلیل ساده | آموزش و طراحی آزاد مدارهای ساده |
 
 ## آموزش و تمرکز بر نرم‌افزار LTspice
 در این بخش از پروژه، تمرکز اصلی بر یادگیری عملی شبیه‌سازی مدار با استفاده از نرم‌افزار **LTspice** قرار دارد. این نرم‌افزار که توسط شرکت Analog Devices توسعه یافته، یکی از پرکاربردترین ابزارهای شبیه‌سازی مدار در سطح دانشگاهی و صنعتی است و به‌دلیل رایگان بودن، دقت بالا و سادگی محیط کاربری، گزینه‌ای ایده‌آل برای آموزش و تحلیل مدارهای الکترونیکی به شمار می‌آید.
@@ -122,75 +117,80 @@ author-profile: true
 
 سپس همانند تصویر زیر بر روی Download for MacOS کلیک می‌کنیم و منتظر دانلود نرم افزار می‌مانیم.
 
-<div align="center">
 
-  <figure>
-    <img src="Simulation-and-Circuit-Analysis/1.png" alt="نصب LTspice در macOS" width="600">
-    <figcaption><b>شکل ۱ – صفحه‌ی نصب LTspice در macOS</b></figcaption>
-  </figure>
-
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/1.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
 </div>
+
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  شکل ۱ – صفحه‌ی نصب LTspice در macOS
+</div>
+
+
 
 سپس فایل دانلود شده را باز کرده و طبق مراحل پیش می‌رویم.
 
 ابتدا روی گزینه Continue کلیک می‌کنیم.
-<div align="center">
 
-  <figure>
-    <img src="Simulation-and-Circuit-Analysis/2.png" alt="نصب LTspice در macOS" width="600">
-    <figcaption><b>شکل ۲ – مراحل نصب LTspice در macOS</b></figcaption>
-  </figure>
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/2.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
 </div>
+
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  شکل ۲ – مراحل نصب LTspice در macOS
+</div>
+
 
 سپس برای تایید License Agreement نرم افزار دوباره بر روی گزینه Continue و سپس بر روی Agree کلیک میکنیم.
-<div align="center">
 
-  <figure>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="Simulation-and-Circuit-Analysis/3.png" alt="گزینه continue" width="45%">
-      <img src="Simulation-and-Circuit-Analysis/4.png" alt="گزینه Agree" width="45%">
-    </div>
-    <figcaption><b>شکل ۳ – مراحل نصب LTspice در macOS</b></figcaption>
-  </figure>
 
+
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/3.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
 </div>
+
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/4.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
+</div>
+
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  شکل ۳ – مراحل نصب LTspice در macOS
+</div>
+
 
 و برای نصب گزینه Install را انتخاب می‌کنیم و منتظر می‌مانیم تا فرایند نصب کامل شود.
 
-<div align="center">
 
-  <figure>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="Simulation-and-Circuit-Analysis/5.png" alt="گزینه install" width="600">
-    </div>
-    <figcaption><b>شکل ۴ – مراحل نصب LTspice در macOS</b></figcaption>
-  </figure>
-
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/5.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
 </div>
+
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  شکل ۴ – مراحل نصب LTspice در macOS
+</div>
+
 
 و در نهایت پس از اتمام نصب بر روی Close کلیک می‌کنیم. 
-<div align="center">
 
-  <figure>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="Simulation-and-Circuit-Analysis/6.png" alt="گزینه close" width="600">
-    </div>
-    <figcaption><b>شکل ۵ – مراحل نصب LTspice در macOS</b></figcaption>
-  </figure>
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/6.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
 </div>
 
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  شکل ۵ – مراحل نصب LTspice در macOS
+</div>
+
+
 حال می‌توانیم در پوشه Application، نرم افزار LTspice را پیدا کنیم.
-<div align="center">
 
-  <figure>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="Simulation-and-Circuit-Analysis/7.png" alt="گزینه close" width="600">
-    </div>
-    <figcaption><b>شکل ۶ – مراحل نصب LTspice در macOS</b></figcaption>
-  </figure>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/7.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
+</div>
 
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  شکل ۶ – مراحل نصب LTspice در macOS
 </div>
 
 ### مراحل ترسیم مدار در LTspice
@@ -396,30 +396,27 @@ V(out): سیگنال خروجی که می‌خواهید تجزیه فوریه �
 سپس شبیه سازی را باایم دستور قرار می‌دهیم:
  ```.tran 100m ``` 
 
-<div align="center">
 
-  <figure>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="Simulation-and-Circuit-Analysis/8.png" alt="گزینه تصویر نهایی مدار" width="600">
-    </div>
-    <figcaption><b>شکل ۷ – تصویر نهایی مدار</b></figcaption>
-  </figure>
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/8.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
+</div>
+
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  شکل ۷ – مراحل نصب LTspice در macOS
 </div>
 
  **اجرا:** 
  سپس برنامه را اجرا میکنیم. با کلیک کردن بر روی هر قسمتی از مدار میتوان طول موج را مشاهده کرد. 
 
 
-<div align="center">
 
-  <figure>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="Simulation-and-Circuit-Analysis/9.png" alt="خروجی مدار" width="600">
-    </div>
-    <figcaption><b>شکل ۸ – خروجی مدار</b></figcaption>
-  </figure>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
+    <img src="/assets/circuiteffort/Simulation-and-Circuit-Analysis/9.png" alt="IPS1" style="width: 80%; height: 50%; border-radius:5px; object-fit:cover; ">
+</div>
 
+<div class="caption" style="text-align: center; margin-top:8px; margin-bottom:15px ">
+  شکل ۸ – مراحل نصب LTspice در macOS
 </div>
 
 ## نتیجه‌گیری
