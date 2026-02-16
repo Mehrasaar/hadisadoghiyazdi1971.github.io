@@ -19,7 +19,7 @@ header:
 **اهم‌سنج** یا **Resistance Meter**، ابزاری الکتریکی است که برای اندازه‌گیری مقاومت الکتریکی (میزان مخالفت یک جسم یا مدار در برابر عبور جریان الکتریکی) به کار می‌رود. امروزه اکثر اهم‌سنج‌ها به صورت یک قابلیت در دستگاه‌های **مولتی‌متر** (**Multimeter**) تعبیه شده‌اند.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/images.jfif" alt="IPS1" style="width: 10%; height: 10%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/images.jfif" alt="IPS1" style="width: 10%; height: 10%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 یک نمونه اهم‌سنج (Ohmmeter)
@@ -76,7 +76,7 @@ $$
 در این نوع، مقاومت مجهول $R_x$ به صورت سری با منبع ولتاژ و گالوانومتر قرار می‌گیرد. این پیکربندی رایج‌ترین نوع در مولتی‌مترهای آنالوگ است.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/series-Type-ohmmeter.png" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/series-Type-ohmmeter.png" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 مدار اهم‌سنج نوع سری
@@ -135,7 +135,7 @@ $$
 * **نتیجه:** مقیاس اهم‌سنج سری معکوس و غیرخطی است (اعداد در سمت چپ فشرده و در سمت راست بازتر هستند).
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Dial-of-Series-Ohmmeter.png" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Dial-of-Series-Ohmmeter.png" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 صفحه نمایش اهم‌سنج سری
@@ -243,7 +243,7 @@ $$
 * خروجی آپ‌امپ از طریق مقاومت مجهول $R_x$ (که در حلقه فیدبک قرار می‌گیرد) به ورودی منفی باز می‌گردد.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Gemini_Generated_Image_bw71g0bw71g0bw71.png" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Gemini_Generated_Image_bw71g0bw71g0bw71.png" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 منبع جریان ثابت با آپ‌امپ
@@ -324,7 +324,7 @@ $$
 طراحی کلی مدار به صورت زیر است:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Multi.png" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Multi.png" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 شماتیک مدار اهم‌سنج چند رنجی
@@ -346,7 +346,7 @@ $$
 نکته مهم این است که مطمئن شویم در هر لحظه فقط یکی از مسیرها فعال باشد. من تصمیم گرفتم که بسته به حدس تقریبی‌ام از مقدار مقاومت مجهول، سیم اتصال را به مسیر (Track) مربوطه وصل کنم. در نهایت، پین خروجی (تغذیه) را به سمت دیگر مدار، جایی که هر سه مسیر به هم می‌رسند، وصل می‌کنیم.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Uno.jpg" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Uno.jpg" alt="IPS1" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 برد آردوینو اونو
@@ -423,7 +423,7 @@ $$
 تنها کار باقی‌مانده، چاپ مقدار مقاومت مجهول و ایجاد یک تاخیر ۵۰۰ میلی‌ثانیه‌ای برای خواناتر شدن مقادیر خروجی است.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Circuit.jpg" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Circuit.jpg" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 مدار بسته شده روی برد بورد
@@ -440,7 +440,7 @@ $$
 مبدل آنالوگ به دیجیتال (ADC) سیستمی است که سیگنال آنالوگ ($V_{IN}$) را به سیگنال دیجیتال تبدیل می‌کند. چون سیگنال‌های آنالوگ پیوسته هستند اما خروجی دیجیتال گسسته است، فرآیند تبدیل همواره با مقداری نویز یا خطا (**Quantization Error**) همراه است.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Diagram.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Diagram.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 دیاگرام مبدل آنالوگ به دیجیتال
@@ -450,7 +450,7 @@ $$
 تبدیل سیگنال شامل کوانتایزیشن (**Quantization**) ورودی است. طبق قضیه نایکوست-شانون، نرخ نمونه‌برداری باید متناسب با کاربرد انتخاب شود.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Diagram1.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Diagram1.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 فرآیند نمونه‌برداری
@@ -471,7 +471,7 @@ $$
 فرآیندی که در آن ولتاژ ورودی نمونه‌برداری شده با نزدیک‌ترین مقدار گسسته جایگزین می‌شود.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Diagram2.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Diagram2.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 خطای کوانتایزیشن
@@ -484,14 +484,14 @@ $$
 3.  **رجیستر SAR:** بیت به بیت حدس می‌زند تا به مقدار نهایی برسد.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Diagram3.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Diagram3.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 معماری SAR
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Gif1.gif" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Gif1.gif" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 انیمیشن عملکرد SAR
@@ -522,7 +522,7 @@ $$
 2.  **Sense High / Low:** دو سیم داخلی که مستقیماً به دو سر قطعه متصل شده و فقط وظیفه اندازه‌گیری ولتاژ را دارند.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision/Gemini_Generated_Image_1pgi781pgi781pgi.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
+    <img src="/assets/circuiteffort/Resistance-meter-basic-circuit-images/Gemini_Generated_Image_1pgi781pgi781pgi.png" alt="IPS1" style="width: 25%; height: 25%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 اندازه‌گیری ۴ سیمه (کلوین)
