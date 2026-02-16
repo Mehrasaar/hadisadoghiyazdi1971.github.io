@@ -3,7 +3,7 @@ layout: single
 classes: wide
 dir: ltr
 title: "DC Motor"
-permalink: /teaching/studenteffort/DC_Motor_en_fixed_DC_Motor/
+permalink: /teaching/circuiteffort/DC_Motor_en_fixed_DC_Motor/
 author_profile: true
 ---
 
