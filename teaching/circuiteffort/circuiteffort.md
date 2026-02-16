@@ -224,4 +224,4 @@ header:
 <div class="english-text">
 <strong>Ohmmeter</strong>
 </div>
-<a href="/teaching/circuiteffort/BiasPoint" style="text-decoration:underline; color:green;" target="_blank"><strong>اهم‌سنج: از تئوری کلاسیک تا دقت دیجیتال</strong></a>
+<a href="/teaching/circuiteffort/ohmmeter_from_classical_theory_to_digital_precision" style="text-decoration:underline; color:green;" target="_blank"><strong>اهم‌سنج: از تئوری کلاسیک تا دقت دیجیتال</strong></a>
